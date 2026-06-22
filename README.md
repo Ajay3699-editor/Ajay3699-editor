@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently building: AI Agents & No-Code Automations<br>🌱 Exploring: LLMs, RAG, and AWS Cloud<br>👯 Open to Open Source Contributions & Collaborations<br>🏆 2026 Goals: Land my first full-time role in AI/ML<br>⚡ Interests: How AI is going to change everything — and how I can build it first! 😏
+🔭 Currently building: AI Agents & No-Code Automations<br>🌱 Exploring: LLMs, RAG, and AWS Cloud<br>👯 Open to Open Source Contributions & Collaborations<br>🏆 2026 Goals: Land my first full-time role in AI/ML.<br>⚡ Interests: How AI is going to change everything — and how I can build it first! 😏
 
 
 ## 🌐 Socials:
