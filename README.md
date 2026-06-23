@@ -75,15 +75,15 @@ fun_fact: >
 
 ## 🌱 What I'm Up To
 
-<img align="left" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280px" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400px" />
 
 <br/>
 
-- Currently building: **AI Agents & No-Code Automations**
-- Exploring: **LLMs, RAG, and AWS Cloud**
-- Open to **Open Source Contributions & Collaborations**
-- **2026 Goal**: Land my first full-time role in **AI/ML**
-- Interests: **How AI is changing everything — and how I can build it first!**
+- Currently building: **AI Agents & No-Code Automations**</br></br>
+- Exploring: **LLMs, RAG, and AWS Cloud**</br></br>
+- Open to **Open Source Contributions & Collaborations**</br></br>
+- **2026 Goal**: Land my first full-time role in **AI/ML**</br></br>
+- Interests: **How AI is changing everything — and how I can build it first!**</br></br>
 - Reach me: **ajaybabukante3699@gmail.com**
 
 <br/><br/><br/><br/>
@@ -184,7 +184,7 @@ fun_fact: >
 ## 🏗️ Featured Projects
 
 <div align="center">
-<img align="right" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="270px"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="200px"/>
 </div>
 
 | Project | Description | Stack |
@@ -246,7 +246,7 @@ fun_fact: >
 <a href="https://github.com/Ajay3699-editor">
   <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="65" />
 </a>
-<a href="https://yourportfolio.com">
+<a href="https://interactive-portfolio-sigma-nine.vercel.app/">
   <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="65" />
 </a>
 
