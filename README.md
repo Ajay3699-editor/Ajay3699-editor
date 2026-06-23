@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ajay%20Babu%20Kante&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Builder&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ajay%20Babu%20Kante&fontSize=45&fontColor=fff&animation=twinkling&font=Monoton">
 
 </div>
 
@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ajaybabu-kante/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey!+I'm+Ajay+Babu+Kante+%F0%9F%91%8B;Building+AI+Agents+%26+Automations+%F0%9F%A4%96;Exploring+LLMs%2C+RAG+%26+AWS+Cloud+%F0%9F%8C%B1;Full+Stack+%7C+React+%7C+Node+%7C+Spring+Boot+%F0%9F%9A%80;2026+Goal%3A+Land+First+AI%2FML+Role+%F0%9F%8F%86;Building+the+future+before+AI+takes+over+%F0%9F%98%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey!+I'm+Ajay+Babu+Kante+%F0%9F%91%8B;Building+AI+%26+No-Code+Automations;LLMs+RAG+%26+Prompt+Engineering;AWS+Cloud+%26+Serverless;Full+Stack+Development" alt="Typing SVG" />
   </a>
 </div>
 
@@ -183,9 +183,7 @@ fun_fact: >
 
 ## 🏗️ Featured Projects
 
-<div align="right">
-<img align="right" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="100px"/>
-</div>
+<div align="center">
 
 | Project | Description | Stack |
 |---|---|---|
@@ -196,8 +194,6 @@ fun_fact: >
 | **Spring Boot API** | RESTful backend with JWT auth & SQL | Java · Spring · MySQL |
 
 <br/>
-
-<div align="center">
 
 > 🔗 *Explore all projects → [GitHub Repositories](https://github.com/Ajay3699-editor?tab=repositories)*
 
